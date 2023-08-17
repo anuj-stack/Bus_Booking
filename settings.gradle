@@ -1,0 +1,2 @@
+rootProject.name = "LNM Bus Service"
+include ':app'

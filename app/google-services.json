@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089441265959",
+    "project_id": "lnm-bus-service",
+    "storage_bucket": "lnm-bus-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089441265959:android:3d01668319ccd095b29102",
+        "android_client_info": {
+          "package_name": "com.whatsapp.lnmbusservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089441265959-vgpuk5hoqmg42fp353fegiufov8pdc2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsV1IbbmWz4JjT3Ue1qNzhlytxzzKLWro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089441265959-vgpuk5hoqmg42fp353fegiufov8pdc2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
